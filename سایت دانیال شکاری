@@ -1,0 +1,52 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>doroghe iran</title>
+</head>
+<body>
+سایت دانیال شکاری
+<br><br><br><br><hr>
+<b>یه متن بولد</b>
+<br>
+<a href="http://google.com"><button>متن</button></a>
+<br>
+چند خط پایین تر
+<hr>
+<b>انتهای سایت</b><br>
+تفلب از پیام های من مشکلی نداره
+<br>
+<img src="../Pictures/2360823.jpg" width="1000">
+<br>
+<audio controls>
+<source src="../Downloads/Abozar Roohi - Salam Farmande (320).mp3">
+</audio>
+<form action="ariyanjahed2017@gmail.com" method="post">
+<input type="text"placeholder="username">
+<input type="email"placeholder="your email">
+<input type="password"placeholder="your password">
+<input type="file">
+<input type="submit" value="تایید">
+</form>
+<video controls>
+<source src="../Downloads/4efe5c386449389794a6ee601c38983d38161941-480p.mp4">
+</video>
+<style>
+body{
+background: blue;
+}
+body{
+text-align: center;
+color: red
+}
+body{
+font-size:20px;
+}
+img{
+border-radius: 80px;
+}
+video{
+border-radius: 80px;
+}
+</style>
+</body>
+</html>
